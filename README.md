@@ -1,16 +1,14 @@
-## Hi there 👋
+ # involuntairly
 
-<!--
-**involuntairly/involuntairly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**(Developer/Designer/Creator)**
 
-Here are some ideas to get you started:
+I'm an passionate developer for low-level programming. Such as the Windows kernel architecture, kernel driver development, and performance optimization, etc. I enjoy working on projects that utilize debugging, reverse-engineering, and using assembly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Languages / Tools
+
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />  
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />  
+<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />  
+<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />  
+
+<br />
