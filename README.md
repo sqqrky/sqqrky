@@ -1,3 +1,4 @@
- # sqqrky
+<p align="center">
+"I'm a realest in this shit, funny fact." - ksuuvi <br />
 
-"I'm a realest in this shit, funny fact." - ksuuvi
+<p align="center">
