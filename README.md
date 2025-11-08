@@ -1,4 +1,4 @@
 <p align="center">
-"I'm a realest in this shit, funny fact." - ksuuvi <br />
+"I don't ask 'em how they feel, they don't ask me how I feel. <br />
 
 <p align="center">
