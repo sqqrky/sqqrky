@@ -1,3 +1,3 @@
 <p align="center">
-Just be yourself
+Just be yourself.
 <p align="center">
